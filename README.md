@@ -6,7 +6,7 @@
 
 **Tags:** #low-poly #isometric #bathroom #interior
 
-![Isometric Bathroom Render](https://raw.githubusercontent.com/pmdartus/3d-scratchpad/master/02-isometric-bathroom/render/final.png)
+![Isometric Bathroom Render](https://raw.githubusercontent.com/pmdartus/3d-scratchpad/master/02-iso-bathroom/render/final.png)
 
 ## Flat Mountain
 
