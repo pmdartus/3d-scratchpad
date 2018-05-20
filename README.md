@@ -14,7 +14,7 @@
 
 **Tags:** #pepper-grinder #studio
 
-![Isometric Bathroom Render](https://raw.githubusercontent.com/pmdartus/3d-scratchpad/master/03-pepper-grinder/render/final.png)
+![Pepper Grinder Render](https://raw.githubusercontent.com/pmdartus/3d-scratchpad/master/05-pepper-grinder/render/final.png)
 
 
 ## Tutorials
