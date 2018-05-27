@@ -10,6 +10,12 @@
 
 ![Isometric Bathroom Render](https://raw.githubusercontent.com/pmdartus/3d-scratchpad/master/02-iso-bathroom/render/final.png)
 
+**Date:** 05/27/2018
+
+**Tags:** #cupcake #lenny #toy-story
+
+![Cupcake Render](https://raw.githubusercontent.com/pmdartus/3d-scratchpad/master/06-cupcake/render/final.png)
+
 **Date:** 05/18/2018
 
 **Tags:** #pepper-grinder #studio
