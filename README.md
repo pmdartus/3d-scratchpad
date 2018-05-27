@@ -20,7 +20,7 @@
 
 **Tags:** #pepper-grinder #studio
 
-![Pepper Grinder Render](https://raw.githubusercontent.com/pmdartus/3d-scratchpad/master/05-pepper-grinder/render/Final.png)
+![Pepper Grinder Render](https://raw.githubusercontent.com/pmdartus/3d-scratchpad/master/05-pepper-grinder/render/final.png)
 
 
 ## Tutorials
